@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\weatherforecasttmerazuretable\\weatherfuctiontableazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|solutionrelative:weatherforecasttmerazuretable\\weatherfuctiontableazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\weatherforecasttmerazuretable\\weatherentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|solutionrelative:weatherforecasttmerazuretable\\weatherentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\weatherforecasttmerazuretable\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|solutionrelative:weatherforecasttmerazuretable\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\weatherforecasttmerazuretable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|solutionrelative:weatherforecasttmerazuretable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BED51AE-D7CA-4F82-8042-46558CFDE3DF}|demoIsolatedTimer\\demoIsolatedTimer.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\demoisolatedtimer\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BED51AE-D7CA-4F82-8042-46558CFDE3DF}|demoIsolatedTimer\\demoIsolatedTimer.csproj|solutionrelative:demoisolatedtimer\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BED51AE-D7CA-4F82-8042-46558CFDE3DF}|demoIsolatedTimer\\demoIsolatedTimer.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\demoisolatedtimer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BED51AE-D7CA-4F82-8042-46558CFDE3DF}|demoIsolatedTimer\\demoIsolatedTimer.csproj|solutionrelative:demoisolatedtimer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E048A415-2E80-4B00-BC41-A885DE43CA30}|queueFucntion\\queueFucntion.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\queuefucntion\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E048A415-2E80-4B00-BC41-A885DE43CA30}|queueFucntion\\queueFucntion.csproj|solutionrelative:queuefucntion\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BED51AE-D7CA-4F82-8042-46558CFDE3DF}|demoIsolatedTimer\\demoIsolatedTimer.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\demoisolatedtimer\\demoisolatedtimer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BED51AE-D7CA-4F82-8042-46558CFDE3DF}|demoIsolatedTimer\\demoIsolatedTimer.csproj|solutionrelative:demoisolatedtimer\\demoisolatedtimer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E048A415-2E80-4B00-BC41-A885DE43CA30}|queueFucntion\\queueFucntion.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\queuefucntion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E048A415-2E80-4B00-BC41-A885DE43CA30}|queueFucntion\\queueFucntion.csproj|solutionrelative:queuefucntion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E048A415-2E80-4B00-BC41-A885DE43CA30}|queueFucntion\\queueFucntion.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\queuefucntion\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E048A415-2E80-4B00-BC41-A885DE43CA30}|queueFucntion\\queueFucntion.csproj|solutionrelative:queuefucntion\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BED51AE-D7CA-4F82-8042-46558CFDE3DF}|demoIsolatedTimer\\demoIsolatedTimer.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\demoisolatedtimer\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BED51AE-D7CA-4F82-8042-46558CFDE3DF}|demoIsolatedTimer\\demoIsolatedTimer.csproj|solutionrelative:demoisolatedtimer\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vikas\\AppData\\Roaming\\Microsoft\\UserSecrets\\d2ee5083-1dd2-42e7-ae83-29e8482a1511\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AB7ADF-7A1D-4CB2-9955-B8C1BA278D76}|AzureFunction\\AzureFunction.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\azurefunction\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AB7ADF-7A1D-4CB2-9955-B8C1BA278D76}|AzureFunction\\AzureFunction.csproj|solutionrelative:azurefunction\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 312,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\WeatherEntity.cs",
+              "RelativeDocumentMoniker": "WeatherForeCastTmerAzureTable\\WeatherEntity.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\WeatherEntity.cs",
+              "RelativeToolTip": "WeatherForeCastTmerAzureTable\\WeatherEntity.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:10:26.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherForeCastTmerAzureTable\\Program.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\Program.cs",
+              "RelativeToolTip": "WeatherForeCastTmerAzureTable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:04:04.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\local.settings.json",
+              "RelativeDocumentMoniker": "WeatherForeCastTmerAzureTable\\local.settings.json",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\local.settings.json",
+              "RelativeToolTip": "WeatherForeCastTmerAzureTable\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T14:03:55.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherFuctionTableAzure.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\WeatherFuctionTableAzure.cs",
+              "RelativeDocumentMoniker": "WeatherForeCastTmerAzureTable\\WeatherFuctionTableAzure.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\WeatherFuctionTableAzure.cs*",
+              "RelativeToolTip": "WeatherForeCastTmerAzureTable\\WeatherFuctionTableAzure.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwEMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:02:28.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\queueFucntion\\Program.cs",
+              "RelativeDocumentMoniker": "queueFucntion\\Program.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\queueFucntion\\Program.cs",
+              "RelativeToolTip": "queueFucntion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:27:09.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\queueFucntion\\local.settings.json",
+              "RelativeDocumentMoniker": "queueFucntion\\local.settings.json",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\queueFucntion\\local.settings.json",
+              "RelativeToolTip": "queueFucntion\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T18:17:25.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\queueFucntion\\Function1.cs",
+              "RelativeDocumentMoniker": "queueFucntion\\Function1.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\queueFucntion\\Function1.cs",
+              "RelativeToolTip": "queueFucntion\\Function1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:15:26.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\vikas\\AppData\\Roaming\\Microsoft\\UserSecrets\\d2ee5083-1dd2-42e7-ae83-29e8482a1511\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\d2ee5083-1dd2-42e7-ae83-29e8482a1511\\secrets.json",
+              "ToolTip": "C:\\Users\\vikas\\AppData\\Roaming\\Microsoft\\UserSecrets\\d2ee5083-1dd2-42e7-ae83-29e8482a1511\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\d2ee5083-1dd2-42e7-ae83-29e8482a1511\\secrets.json",
+              "ViewState": "AgIAAAEAAAAIDDLlRRQdwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T17:58:18.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "demoIsolatedTimer",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\demoIsolatedTimer\\demoIsolatedTimer.csproj",
+              "RelativeDocumentMoniker": "demoIsolatedTimer\\demoIsolatedTimer.csproj",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\demoIsolatedTimer\\demoIsolatedTimer.csproj",
+              "RelativeToolTip": "demoIsolatedTimer\\demoIsolatedTimer.csproj",
+              "ViewState": "AgIAAB4AAACMw5lkrYwowCAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T17:51:28.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\demoIsolatedTimer\\local.settings.json",
+              "RelativeDocumentMoniker": "demoIsolatedTimer\\local.settings.json",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\demoIsolatedTimer\\local.settings.json",
+              "RelativeToolTip": "demoIsolatedTimer\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T17:50:34.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\demoIsolatedTimer\\Program.cs",
+              "RelativeDocumentMoniker": "demoIsolatedTimer\\Program.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\demoIsolatedTimer\\Program.cs",
+              "RelativeToolTip": "demoIsolatedTimer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:46:05.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\demoIsolatedTimer\\Function1.cs",
+              "RelativeDocumentMoniker": "demoIsolatedTimer\\Function1.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\demoIsolatedTimer\\Function1.cs",
+              "RelativeToolTip": "demoIsolatedTimer\\Function1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:44:26.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\AzureFunction\\Request.cs",
+              "RelativeDocumentMoniker": "AzureFunction\\Request.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\AzureFunction\\Request.cs",
+              "RelativeToolTip": "AzureFunction\\Request.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:07:43.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
