@@ -7,9 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
-using WeatherForeCastTmerAzureTable;
 
-namespace WeatherForeCastTimerAzureTable
+namespace WeatherForeCastTmerAzureTable
 {
     public class WeatherFunctionTableAzure
     {
@@ -40,7 +39,7 @@ namespace WeatherForeCastTimerAzureTable
             [HttpTrigger(AuthorizationLevel.Function, "get", "post")] Microsoft.AspNetCore.Http.HttpRequest req)
         {
             await FetchWeatherDataInternal();
-            return new Microsoft.AspNetCore.Mvc.OkObjectResult("Weather data fetched and stored.");
+            return new OkObjectResult("Weather data fetched and stored.");
         }
 
         // Common logic for fetching and storing weather data

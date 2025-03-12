@@ -65,7 +65,9 @@ namespace SendEmailReminderJsonToQueue
             {
                 QueueClient queueClient = new QueueClient(connectionString, queueName);
                 await queueClient.CreateIfNotExistsAsync();
-                await queueClient.SendMessageAsync(jsonResponse);
+                string base64Message = Convert.ToBase64String(System.Text.Encoding.UTF8.GetBytes(jsonResponse));
+                await queueClient.SendMessageAsync(base64Message);
+
                 _logger.LogInformation("Message added to queue successfully.");
             }
             catch (Exception ex)

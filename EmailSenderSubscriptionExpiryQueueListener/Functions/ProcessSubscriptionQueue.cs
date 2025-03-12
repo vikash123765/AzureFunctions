@@ -125,25 +125,19 @@ namespace EmailSenderSubscriptionExpiryQueueListener.Functions
             }
         }
 
-        // ✅ DECODE BASE64 MESSAGE FUNCTION
         private string DecodeMessage(string encodedMessage)
         {
             try
             {
-                if (IsBase64String(encodedMessage))
-                {
-                    string decoded = Encoding.UTF8.GetString(Convert.FromBase64String(encodedMessage));
-                    _logger.LogInformation("🔄 Decoded Base64 queue message.");
-                    return decoded;
-                }
-                return encodedMessage;
+                byte[] data = Convert.FromBase64String(encodedMessage);
+                return Encoding.UTF8.GetString(data);
             }
             catch (FormatException)
             {
-                _logger.LogWarning("⚠️ Failed Base64 decoding, using raw message.");
-                return encodedMessage;
+                return encodedMessage; // Return as-is if not Base64
             }
         }
+
 
         // ✅ HELPER FUNCTION: CHECK IF STRING IS BASE64 ENCODED
         private bool IsBase64String(string input)
