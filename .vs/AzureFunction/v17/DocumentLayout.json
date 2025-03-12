@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6C22276B-DA22-4956-8DDD-7D49221C251A}|EmailSenderSubscriptionExpiryQueueListener\\EmailSenderSubscriptionExpiryQueueListener.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\emailsendersubscriptionexpiryqueuelistener\\functions\\processsubscriptionqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C22276B-DA22-4956-8DDD-7D49221C251A}|EmailSenderSubscriptionExpiryQueueListener\\EmailSenderSubscriptionExpiryQueueListener.csproj|solutionrelative:emailsendersubscriptionexpiryqueuelistener\\functions\\processsubscriptionqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C22276B-DA22-4956-8DDD-7D49221C251A}|EmailSenderSubscriptionExpiryQueueListener\\EmailSenderSubscriptionExpiryQueueListener.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\emailsendersubscriptionexpiryqueuelistener\\models\\usersubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C22276B-DA22-4956-8DDD-7D49221C251A}|EmailSenderSubscriptionExpiryQueueListener\\EmailSenderSubscriptionExpiryQueueListener.csproj|solutionrelative:emailsendersubscriptionexpiryqueuelistener\\models\\usersubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C22276B-DA22-4956-8DDD-7D49221C251A}|EmailSenderSubscriptionExpiryQueueListener\\EmailSenderSubscriptionExpiryQueueListener.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\emailsendersubscriptionexpiryqueuelistener\\models\\subscriptiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C22276B-DA22-4956-8DDD-7D49221C251A}|EmailSenderSubscriptionExpiryQueueListener\\EmailSenderSubscriptionExpiryQueueListener.csproj|solutionrelative:emailsendersubscriptionexpiryqueuelistener\\models\\subscriptiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C22276B-DA22-4956-8DDD-7D49221C251A}|EmailSenderSubscriptionExpiryQueueListener\\EmailSenderSubscriptionExpiryQueueListener.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\emailsendersubscriptionexpiryqueuelistener\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C22276B-DA22-4956-8DDD-7D49221C251A}|EmailSenderSubscriptionExpiryQueueListener\\EmailSenderSubscriptionExpiryQueueListener.csproj|solutionrelative:emailsendersubscriptionexpiryqueuelistener\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C22276B-DA22-4956-8DDD-7D49221C251A}|EmailSenderSubscriptionExpiryQueueListener\\EmailSenderSubscriptionExpiryQueueListener.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\emailsendersubscriptionexpiryqueuelistener\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C22276B-DA22-4956-8DDD-7D49221C251A}|EmailSenderSubscriptionExpiryQueueListener\\EmailSenderSubscriptionExpiryQueueListener.csproj|solutionrelative:emailsendersubscriptionexpiryqueuelistener\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F703E13-A895-4595-8671-2EC2351BC5E5}|SendEmailReminderJsonToQueue\\SendEmailReminderJsonToQueue.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\sendemailreminderjsontoqueue\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F703E13-A895-4595-8671-2EC2351BC5E5}|SendEmailReminderJsonToQueue\\SendEmailReminderJsonToQueue.csproj|solutionrelative:sendemailreminderjsontoqueue\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C22276B-DA22-4956-8DDD-7D49221C251A}|EmailSenderSubscriptionExpiryQueueListener\\EmailSenderSubscriptionExpiryQueueListener.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\emailsendersubscriptionexpiryqueuelistener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C22276B-DA22-4956-8DDD-7D49221C251A}|EmailSenderSubscriptionExpiryQueueListener\\EmailSenderSubscriptionExpiryQueueListener.csproj|solutionrelative:emailsendersubscriptionexpiryqueuelistener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\weatherforecasttmerazuretable\\weatherfuctiontableazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|solutionrelative:weatherforecasttmerazuretable\\weatherfuctiontableazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,21 +69,112 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\SendEmailReminderJsonToQueue\\local.settings.json",
+              "RelativeDocumentMoniker": "SendEmailReminderJsonToQueue\\local.settings.json",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\SendEmailReminderJsonToQueue\\local.settings.json",
+              "RelativeToolTip": "SendEmailReminderJsonToQueue\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T15:27:08.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\EmailSenderSubscriptionExpiryQueueListener\\local.settings.json",
+              "RelativeDocumentMoniker": "EmailSenderSubscriptionExpiryQueueListener\\local.settings.json",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\EmailSenderSubscriptionExpiryQueueListener\\local.settings.json",
+              "RelativeToolTip": "EmailSenderSubscriptionExpiryQueueListener\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T15:26:59.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\EmailSenderSubscriptionExpiryQueueListener\\Program.cs",
+              "RelativeDocumentMoniker": "EmailSenderSubscriptionExpiryQueueListener\\Program.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\EmailSenderSubscriptionExpiryQueueListener\\Program.cs",
+              "RelativeToolTip": "EmailSenderSubscriptionExpiryQueueListener\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:26:39.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubscriptionDetail.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\EmailSenderSubscriptionExpiryQueueListener\\Models\\SubscriptionDetail.cs",
+              "RelativeDocumentMoniker": "EmailSenderSubscriptionExpiryQueueListener\\Models\\SubscriptionDetail.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\EmailSenderSubscriptionExpiryQueueListener\\Models\\SubscriptionDetail.cs",
+              "RelativeToolTip": "EmailSenderSubscriptionExpiryQueueListener\\Models\\SubscriptionDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:21:28.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\EmailSenderSubscriptionExpiryQueueListener\\Models\\UserSubscription.cs",
+              "RelativeDocumentMoniker": "EmailSenderSubscriptionExpiryQueueListener\\Models\\UserSubscription.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\EmailSenderSubscriptionExpiryQueueListener\\Models\\UserSubscription.cs",
+              "RelativeToolTip": "EmailSenderSubscriptionExpiryQueueListener\\Models\\UserSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:21:19.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\EmailSenderSubscriptionExpiryQueueListener\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "EmailSenderSubscriptionExpiryQueueListener\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\EmailSenderSubscriptionExpiryQueueListener\\Services\\EmailSender.cs",
+              "RelativeToolTip": "EmailSenderSubscriptionExpiryQueueListener\\Services\\EmailSender.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:21:00.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProcessSubscriptionQueue.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\EmailSenderSubscriptionExpiryQueueListener\\Functions\\ProcessSubscriptionQueue.cs",
+              "RelativeDocumentMoniker": "EmailSenderSubscriptionExpiryQueueListener\\Functions\\ProcessSubscriptionQueue.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\EmailSenderSubscriptionExpiryQueueListener\\Functions\\ProcessSubscriptionQueue.cs",
+              "RelativeToolTip": "EmailSenderSubscriptionExpiryQueueListener\\Functions\\ProcessSubscriptionQueue.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAkwI4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:18:15.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "WeatherFuctionTableAzure.cs",
               "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\WeatherFuctionTableAzure.cs",
               "RelativeDocumentMoniker": "WeatherForeCastTmerAzureTable\\WeatherFuctionTableAzure.cs",
               "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\WeatherFuctionTableAzure.cs",
               "RelativeToolTip": "WeatherForeCastTmerAzureTable\\WeatherFuctionTableAzure.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAzwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T14:51:35.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SendEmailReminderJsonToQueue",
+              "DocumentIndex": 8,
+              "Title": "SendEmailReminderJsonToQueue.csproj",
               "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\SendEmailReminderJsonToQueue\\SendEmailReminderJsonToQueue.csproj",
               "RelativeDocumentMoniker": "SendEmailReminderJsonToQueue\\SendEmailReminderJsonToQueue.csproj",
               "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\SendEmailReminderJsonToQueue\\SendEmailReminderJsonToQueue.csproj",
@@ -67,8 +186,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ImageBlobTriggerListener",
+              "DocumentIndex": 9,
+              "Title": "ImageBlobTriggerListener.csproj",
               "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj",
               "RelativeDocumentMoniker": "ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj",
               "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj",
@@ -80,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "local.settings.json",
               "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\ImageBlobTriggerListener\\local.settings.json",
               "RelativeDocumentMoniker": "ImageBlobTriggerListener\\local.settings.json",
@@ -93,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Microsoft.Azure.Functions.Worker.Sdk.targets",
               "DocumentMoniker": "C:\\Users\\vikas\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
@@ -106,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "local.settings.json",
               "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\ArchiveArticlesFunctionApp\\local.settings.json",
               "RelativeDocumentMoniker": "ArchiveArticlesFunctionApp\\local.settings.json",

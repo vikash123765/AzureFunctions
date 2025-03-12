@@ -27,7 +27,7 @@ namespace WeatherForeCastTimerAzureTable
             _tableClient.CreateIfNotExists();
         }
 
-        // TimerTrigger: Runs every 2 minutes
+        // TimerTrigger: Runs every 1 minutes
         [Function("FetchWeatherData_Timer")]
         public async Task Run([TimerTrigger("*/1 * * * *")] TimerInfo myTimer)
         {
