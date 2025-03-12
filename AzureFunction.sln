@@ -9,9 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchiveArticlesFunctionApp"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageBlobTriggerListener", "ImageBlobTriggerListener\ImageBlobTriggerListener.csproj", "{082265F5-7433-4F2E-B3C4-3EEE6F95A513}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Subsription5DaysExpiryNotification", "Subsription5DaysExpiryNotification\Subsription5DaysExpiryNotification.csproj", "{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubscriptionEmailReminder", "SubscriptionEmailReminder\SubscriptionEmailReminder.csproj", "{67033D79-D198-4874-94F7-F4517E89D537}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SendEmailReminderJsonToQueue", "SendEmailReminderJsonToQueue\SendEmailReminderJsonToQueue.csproj", "{5F703E13-A895-4595-8671-2EC2351BC5E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,14 +29,10 @@ Global
 		{082265F5-7433-4F2E-B3C4-3EEE6F95A513}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{082265F5-7433-4F2E-B3C4-3EEE6F95A513}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{082265F5-7433-4F2E-B3C4-3EEE6F95A513}.Release|Any CPU.Build.0 = Release|Any CPU
-		{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{67033D79-D198-4874-94F7-F4517E89D537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{67033D79-D198-4874-94F7-F4517E89D537}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{67033D79-D198-4874-94F7-F4517E89D537}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{67033D79-D198-4874-94F7-F4517E89D537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F703E13-A895-4595-8671-2EC2351BC5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F703E13-A895-4595-8671-2EC2351BC5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F703E13-A895-4595-8671-2EC2351BC5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F703E13-A895-4595-8671-2EC2351BC5E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

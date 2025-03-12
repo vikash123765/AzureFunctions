@@ -3,325 +3,119 @@
   "WorkspaceRootPath": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\subsription5daysexpirynotification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|solutionrelative:subsription5daysexpirynotification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\weatherforecasttmerazuretable\\weatherfuctiontableazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|solutionrelative:weatherforecasttmerazuretable\\weatherfuctiontableazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\subsription5daysexpirynotification\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|solutionrelative:subsription5daysexpirynotification\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\subsription5daysexpirynotification\\functions\\subscriptionexpirynotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|solutionrelative:subsription5daysexpirynotification\\functions\\subscriptionexpirynotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67033D79-D198-4874-94F7-F4517E89D537}|SubscriptionEmailReminder\\SubscriptionEmailReminder.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\subscriptionemailreminder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67033D79-D198-4874-94F7-F4517E89D537}|SubscriptionEmailReminder\\SubscriptionEmailReminder.csproj|solutionrelative:subscriptionemailreminder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\subsription5daysexpirynotification\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|solutionrelative:subsription5daysexpirynotification\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\subsription5daysexpirynotification\\models\\subscriptioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|solutionrelative:subsription5daysexpirynotification\\models\\subscriptioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\subsription5daysexpirynotification\\models\\usersubscriptioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|solutionrelative:subsription5daysexpirynotification\\models\\usersubscriptioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\subsription5daysexpirynotification\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|solutionrelative:subsription5daysexpirynotification\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\subsription5daysexpirynotification\\subsription5daysexpirynotification.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|solutionrelative:subsription5daysexpirynotification\\subsription5daysexpirynotification.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{082265F5-7433-4F2E-B3C4-3EEE6F95A513}|ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\imageblobtriggerlistener\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{082265F5-7433-4F2E-B3C4-3EEE6F95A513}|ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj|solutionrelative:imageblobtriggerlistener\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1598B92-AA35-48DB-8D55-B3F1D79883BA}|ArchiveArticlesFunctionApp\\ArchiveArticlesFunctionApp.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\archivearticlesfunctionapp\\archivearticlesfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1598B92-AA35-48DB-8D55-B3F1D79883BA}|ArchiveArticlesFunctionApp\\ArchiveArticlesFunctionApp.csproj|solutionrelative:archivearticlesfunctionapp\\archivearticlesfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\subsription5daysexpirynotification\\subsription5daysexpirynotification.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{62628CC2-6DF2-4337-A0D6-5EA35E4753D5}|Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj|solutionrelative:subsription5daysexpirynotification\\subsription5daysexpirynotification.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{082265F5-7433-4F2E-B3C4-3EEE6F95A513}|ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\imageblobtriggerlistener\\blob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{082265F5-7433-4F2E-B3C4-3EEE6F95A513}|ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj|solutionrelative:imageblobtriggerlistener\\blob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F703E13-A895-4595-8671-2EC2351BC5E5}|SendEmailReminderJsonToQueue\\SendEmailReminderJsonToQueue.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\sendemailreminderjsontoqueue\\sendemailreminderjsontoqueue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F703E13-A895-4595-8671-2EC2351BC5E5}|SendEmailReminderJsonToQueue\\SendEmailReminderJsonToQueue.csproj|solutionrelative:sendemailreminderjsontoqueue\\sendemailreminderjsontoqueue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{082265F5-7433-4F2E-B3C4-3EEE6F95A513}|ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\imageblobtriggerlistener\\imageblobtriggerlistener.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{082265F5-7433-4F2E-B3C4-3EEE6F95A513}|ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj|solutionrelative:imageblobtriggerlistener\\imageblobtriggerlistener.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\weatherforecasttmerazuretable\\weatherfuctiontableazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|solutionrelative:weatherforecasttmerazuretable\\weatherfuctiontableazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{082265F5-7433-4F2E-B3C4-3EEE6F95A513}|ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\imageblobtriggerlistener\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{082265F5-7433-4F2E-B3C4-3EEE6F95A513}|ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj|solutionrelative:imageblobtriggerlistener\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\weatherforecasttmerazuretable\\weatherentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|solutionrelative:weatherforecasttmerazuretable\\weatherentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vikas\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\weatherforecasttmerazuretable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|solutionrelative:weatherforecasttmerazuretable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{082265F5-7433-4F2E-B3C4-3EEE6F95A513}|ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\imageblobtriggerlistener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{082265F5-7433-4F2E-B3C4-3EEE6F95A513}|ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj|solutionrelative:imageblobtriggerlistener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\weatherforecasttmerazuretable\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{25AF0E38-A883-4053-B361-B5F216F8502E}|WeatherForeCastTmerAzureTable\\WeatherForeCastTmerAzureTable.csproj|solutionrelative:weatherforecasttmerazuretable\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C1598B92-AA35-48DB-8D55-B3F1D79883BA}|ArchiveArticlesFunctionApp\\ArchiveArticlesFunctionApp.csproj|c:\\users\\vikas\\source\\repos\\azurefunction\\archivearticlesfunctionapp\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1598B92-AA35-48DB-8D55-B3F1D79883BA}|ArchiveArticlesFunctionApp\\ArchiveArticlesFunctionApp.csproj|solutionrelative:archivearticlesfunctionapp\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 100,
+      "VerticalTabListWidth": 120,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\SubscriptionEmailReminder\\Program.cs",
-              "RelativeDocumentMoniker": "SubscriptionEmailReminder\\Program.cs",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\SubscriptionEmailReminder\\Program.cs",
-              "RelativeToolTip": "SubscriptionEmailReminder\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:52:33.04Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "readme.md",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\readme.md",
-              "RelativeDocumentMoniker": "Subsription5DaysExpiryNotification\\readme.md",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\readme.md",
-              "RelativeToolTip": "Subsription5DaysExpiryNotification\\readme.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-03-10T18:01:21.706Z",
+              "DocumentIndex": 0,
+              "Title": "WeatherFuctionTableAzure.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\WeatherFuctionTableAzure.cs",
+              "RelativeDocumentMoniker": "WeatherForeCastTmerAzureTable\\WeatherFuctionTableAzure.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\WeatherFuctionTableAzure.cs",
+              "RelativeToolTip": "WeatherForeCastTmerAzureTable\\WeatherFuctionTableAzure.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:51:35.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "local.settings.json",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\local.settings.json",
-              "RelativeDocumentMoniker": "Subsription5DaysExpiryNotification\\local.settings.json",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\local.settings.json",
-              "RelativeToolTip": "Subsription5DaysExpiryNotification\\local.settings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-10T17:11:39.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\Program.cs",
-              "RelativeDocumentMoniker": "Subsription5DaysExpiryNotification\\Program.cs",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\Program.cs",
-              "RelativeToolTip": "Subsription5DaysExpiryNotification\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:08:10.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SubscriptionInfo.cs",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\Models\\SubscriptionInfo.cs",
-              "RelativeDocumentMoniker": "Subsription5DaysExpiryNotification\\Models\\SubscriptionInfo.cs",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\Models\\SubscriptionInfo.cs",
-              "RelativeToolTip": "Subsription5DaysExpiryNotification\\Models\\SubscriptionInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:07:30.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserSubscriptionInfo.cs",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\Models\\UserSubscriptionInfo.cs",
-              "RelativeDocumentMoniker": "Subsription5DaysExpiryNotification\\Models\\UserSubscriptionInfo.cs",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\Models\\UserSubscriptionInfo.cs",
-              "RelativeToolTip": "Subsription5DaysExpiryNotification\\Models\\UserSubscriptionInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:07:08.046Z",
+              "Title": "SendEmailReminderJsonToQueue",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\SendEmailReminderJsonToQueue\\SendEmailReminderJsonToQueue.csproj",
+              "RelativeDocumentMoniker": "SendEmailReminderJsonToQueue\\SendEmailReminderJsonToQueue.csproj",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\SendEmailReminderJsonToQueue\\SendEmailReminderJsonToQueue.csproj",
+              "RelativeToolTip": "SendEmailReminderJsonToQueue\\SendEmailReminderJsonToQueue.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T14:45:40.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SubscriptionExpiryNotifier.cs",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\Functions\\SubscriptionExpiryNotifier.cs",
-              "RelativeDocumentMoniker": "Subsription5DaysExpiryNotification\\Functions\\SubscriptionExpiryNotifier.cs",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\Functions\\SubscriptionExpiryNotifier.cs",
-              "RelativeToolTip": "Subsription5DaysExpiryNotification\\Functions\\SubscriptionExpiryNotifier.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAYwF8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:00:26.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmailSender.cs",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\Services\\EmailSender.cs",
-              "RelativeDocumentMoniker": "Subsription5DaysExpiryNotification\\Services\\EmailSender.cs",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\Services\\EmailSender.cs",
-              "RelativeToolTip": "Subsription5DaysExpiryNotification\\Services\\EmailSender.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T16:57:10.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ArchiveArticlesFunction.cs",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\ArchiveArticlesFunctionApp\\ArchiveArticlesFunction.cs",
-              "RelativeDocumentMoniker": "ArchiveArticlesFunctionApp\\ArchiveArticlesFunction.cs",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\ArchiveArticlesFunctionApp\\ArchiveArticlesFunction.cs",
-              "RelativeToolTip": "ArchiveArticlesFunctionApp\\ArchiveArticlesFunction.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T16:35:22.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Subsription5DaysExpiryNotification",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj",
-              "RelativeDocumentMoniker": "Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj",
-              "RelativeToolTip": "Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-10T16:32:22.731Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Subsription5DaysExpiryNotification.csproj",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj",
-              "RelativeDocumentMoniker": "Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj",
-              "RelativeToolTip": "Subsription5DaysExpiryNotification\\Subsription5DaysExpiryNotification.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-10T16:32:03.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ImageBlobTriggerListener.csproj",
+              "Title": "ImageBlobTriggerListener",
               "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj",
               "RelativeDocumentMoniker": "ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj",
               "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj",
               "RelativeToolTip": "ImageBlobTriggerListener\\ImageBlobTriggerListener.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-10T15:08:11.209Z"
+              "WhenOpened": "2025-03-12T14:48:11.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "WeatherFuctionTableAzure.cs",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\WeatherFuctionTableAzure.cs",
-              "RelativeDocumentMoniker": "WeatherForeCastTmerAzureTable\\WeatherFuctionTableAzure.cs",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\WeatherFuctionTableAzure.cs",
-              "RelativeToolTip": "WeatherForeCastTmerAzureTable\\WeatherFuctionTableAzure.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T15:07:10.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\Program.cs",
-              "RelativeDocumentMoniker": "WeatherForeCastTmerAzureTable\\Program.cs",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\Program.cs",
-              "RelativeToolTip": "WeatherForeCastTmerAzureTable\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T15:07:18.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "WeatherEntity.cs",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\WeatherEntity.cs",
-              "RelativeDocumentMoniker": "WeatherForeCastTmerAzureTable\\WeatherEntity.cs",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\WeatherEntity.cs",
-              "RelativeToolTip": "WeatherForeCastTmerAzureTable\\WeatherEntity.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T15:07:05.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\ImageBlobTriggerListener\\Program.cs",
-              "RelativeDocumentMoniker": "ImageBlobTriggerListener\\Program.cs",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\ImageBlobTriggerListener\\Program.cs",
-              "RelativeToolTip": "ImageBlobTriggerListener\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T15:02:12.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "local.settings.json",
               "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\ImageBlobTriggerListener\\local.settings.json",
               "RelativeDocumentMoniker": "ImageBlobTriggerListener\\local.settings.json",
               "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\ImageBlobTriggerListener\\local.settings.json",
               "RelativeToolTip": "ImageBlobTriggerListener\\local.settings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAADdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-10T14:56:10.677Z"
+              "WhenOpened": "2025-03-12T13:50:26.216Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Blob.cs",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\ImageBlobTriggerListener\\Blob.cs",
-              "RelativeDocumentMoniker": "ImageBlobTriggerListener\\Blob.cs",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\ImageBlobTriggerListener\\Blob.cs",
-              "RelativeToolTip": "ImageBlobTriggerListener\\Blob.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T14:55:40.843Z"
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "DocumentMoniker": "C:\\Users\\vikas\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "ToolTip": "C:\\Users\\vikas\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-11T20:01:23.934Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 5,
               "Title": "local.settings.json",
-              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\local.settings.json",
-              "RelativeDocumentMoniker": "WeatherForeCastTmerAzureTable\\local.settings.json",
-              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\WeatherForeCastTmerAzureTable\\local.settings.json",
-              "RelativeToolTip": "WeatherForeCastTmerAzureTable\\local.settings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\ArchiveArticlesFunctionApp\\local.settings.json",
+              "RelativeDocumentMoniker": "ArchiveArticlesFunctionApp\\local.settings.json",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\AzureFunction\\ArchiveArticlesFunctionApp\\local.settings.json",
+              "RelativeToolTip": "ArchiveArticlesFunctionApp\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-07T08:42:53.819Z"
+              "WhenOpened": "2025-03-11T19:54:48.895Z",
+              "EditorCaption": ""
             }
           ]
         }

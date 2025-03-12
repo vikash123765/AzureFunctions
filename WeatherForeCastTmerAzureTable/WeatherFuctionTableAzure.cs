@@ -29,7 +29,7 @@ namespace WeatherForeCastTimerAzureTable
 
         // TimerTrigger: Runs every 2 minutes
         [Function("FetchWeatherData_Timer")]
-        public async Task Run([TimerTrigger("*/2 * * * *")] TimerInfo myTimer)
+        public async Task Run([TimerTrigger("*/1 * * * *")] TimerInfo myTimer)
         {
             await FetchWeatherDataInternal();
         }
@@ -75,7 +75,7 @@ namespace WeatherForeCastTimerAzureTable
                 DateTime swedishTimeUtc = DateTime.SpecifyKind(swedishTime, DateTimeKind.Utc);
 
 
-       
+
                 var entity = new WeatherEntity
                 {
                     PartitionKey = "WeatherData",
